@@ -1,1 +1,1 @@
-![项目截图](project1106.png)
+![项目截图](project1106.jpeg)
